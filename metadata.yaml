@@ -1,0 +1,31 @@
+_repo: Jinrikisha-days-in-Japan_72989
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scidmore, Eliza Ruhamah
+    alias: Scidmore, E. R. (Eliza Ruhamah)
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '47038'
+    url: http://www.gutenberg.org/2009/agents/47038
+    wikipedia: https://en.wikipedia.org/wiki/Eliza_Ruhamah_Scidmore
+description: ''
+gutenberg_issued: '2024-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72989'
+language: en
+pgterms:marc904: https://archive.org/details/jinrikishadaysin00scidiala
+pgterms:marc905: 20211120081807scidmore
+pgterms:marc906: '1891'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bHarper & Brothers, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jinrikisha days in Japan
+url: http://www.gutenberg.org/ebooks/72989
